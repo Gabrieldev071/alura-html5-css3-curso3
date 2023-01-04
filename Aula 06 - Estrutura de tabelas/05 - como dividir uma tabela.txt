@@ -1,0 +1,29 @@
+Como dividir uma tabela de forma mais semântica?
+
+Alternativa correta
+
+
+Usando as tags <thead>, <tbody> e <tfoot>
+
+
+Alternativa correta! As tags <thead>, <tbody> e <tfoot> ajudam a deixar o conteúdo da tabela mais bem dividido e mais semântico.
+
+
+Além disso, podemos alterar para deixar mais semântico:
+
+<thead> é responsável pelo cabecalho 
+
+<th> célula do cabeçalho thead da tabela
+
+<thoby> corpo da tabela 
+
+
+
+A tag table, que representa a tabela
+A tag tr, que representa a linha da tabela
+A tag td, que representa a célula da tabela
+A tag thead, que representa o cabeçalho da tabela
+A tag tbody, que representa o corpo da tabela
+A tag th, que representa a célula do cabeçalho da tabela
+A tag tfoot, que representa o rodapé da tabela
+A estilizar a tabela

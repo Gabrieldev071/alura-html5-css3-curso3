@@ -1,0 +1,22 @@
+
+Qual tag uso para criar linhas em uma tabela?
+
+<tr>
+
+
+Alternativa correta! Utilizamos a tag <tr> para marcar uma linha de uma tabela.
+
+
+
+Uma tabela HTML consiste em um <table> elemento e um ou mais elementos <tr> , <th> e <td> .
+
+O elemento <tr> define uma linha da tabela, o elemento <th> define um cabeçalho da tabela e o elemento <td> define uma célula da tabela
+
+
+Além disso, podemos alterar para deixar mais semântico;.
+
+<thead> é responsável pelo cabecalho 
+
+<th> célula do cabeçalho thead da tabela
+
+<thoby> corpo da tabela 

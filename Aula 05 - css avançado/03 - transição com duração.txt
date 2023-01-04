@@ -1,0 +1,11 @@
+Como configurar a transição visual de um elemento, que dure 3 segundos?
+
+transition: 3s;
+
+
+Alternativa correta! Utilizamos a propriedade transition para prover uma transição visual de um elemento.
+
+
+É possível criar transições com duração menor que 1 segundo?
+
+Por exemplo, se você quer que a tansição dure meio segundo, o valor que precisa colocar é .5s que equivale à zero vírgula cinco segundos.

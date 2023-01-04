@@ -1,0 +1,24 @@
+            <form>
+
+                <!-- //Etiqueta/estrutura para ser identificada, além disso, ao clicar no LABEL ele ganha FOCUS. -->
+                <label for="nome">Digite seu nome aqui:</label>  
+
+                <!-- //caixa de informações para enviar os dados, de acordo com o seu tipo-->
+
+                <input id="nome" type="text">    
+                
+                <label for="email">Email:</label>
+                <input id="email" type="text"> 
+
+                <label for="telefone">Telefone</label>
+                <input id="telefone" type="text">
+
+                <!-- input específico para enviar esses dados -->
+
+                <input type="submit" value="Enviar fomulário">
+
+
+            </form>
+
+
+A tag <label> é uma etiqueta para a entrada de dados, para o <input>.
